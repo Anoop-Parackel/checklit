@@ -1,0 +1,5 @@
+{
+  "name": "Material AI Checklists",
+  "description": "A smart, Android-styled checklist application powered by Gemini. Generate checklists for any topic instantly or manage your own tasks with a beautiful Material You interface.",
+  "requestFramePermissions": []
+}
